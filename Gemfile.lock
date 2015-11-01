@@ -37,6 +37,8 @@ GEM
     eventmachine (1.0.8)
     execjs (2.6.0)
     ffi (1.9.10)
+    foundation (1.0.4)
+      thor (>= 0.18.1)
     git-version-bump (0.15.1)
     haml (4.0.7)
       tilt
@@ -134,6 +136,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  foundation
   middleman (~> 3.4.0)
   middleman-livereload (~> 3.1.0)
   puma
