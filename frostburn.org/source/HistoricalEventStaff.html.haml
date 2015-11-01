@@ -1,0 +1,15 @@
+---
+title: Historical Event Staff
+tags: []
+---
+
+- data.staff.each do |year|
+  - next if year[0] == data.event.year
+  %h3= "Frostburn #{year[0]}"
+  - year[1..-1].each do |group|
+    - group.each_pair do |k,v|
+      %p
+        %strong= k
+      - v.each_pair do |p,n|
+        %strong= "#{p}:"
+        #{n}</br>

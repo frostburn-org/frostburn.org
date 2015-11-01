@@ -1,0 +1,30 @@
+---
+title: Contact Us
+date: '2012-10-30'
+tags: []
+---
+
+<h2>Contact Us</h2>
+Help: <<%= data.contact.support %>>
+
+Qeuestions on placement:  <<%= data.contact.placement %>>  
+Questions on art grants:   <<%= data.contact.art %>>  
+Questions on volunteering:  <<%= data.contact.volunteer %>>  
+Questions on Fire conclave:  <<%= data.contact.support %>>  
+
+
+Like email?  
+Frostburn Announce List (Low Traffic): <a href="mailto:frostburn-announce+subscribe@googlegroups.com?subject=Send this message to subscribe">Subscribe</a> <a href="mailto:frostburn-announce+unsubscribe@googlegroups.com?subject=Send this message to un-subscribe">Unsubscribe</a>  
+Frostburn Discuss List: <a href="mailto:frostburn_discuss+subscribe@googlegroups.com?subject=Send this message to subscribe">Subscribe</a> <a href="mailto:frostburn_discuss+unsubscribe@googlegroups.com?subject=Send this message to un-subscribe">Unsubscribe
+</a>
+
+Social Media:  
+<% data.contact.social.each do |u| %>
+  <%= link_to u.text, u.link %>  
+<% end %>
+
+
+Other Information:  
+<% data.contact.other.each do |u| %>
+  <%= link_to u.text, u.link %>  
+<% end %>

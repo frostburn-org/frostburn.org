@@ -1,0 +1,43 @@
+---
+title: Volunteer
+date: '2012-10-28'
+tags: []
+---
+
+Volunteering can be a very rewarding experience and is a wonderful way to become more connected with the community. This could be your chance to meet and connect with a large number of people, while also being an active participant in the event! Please see the following link to fill out our official volunteer form. There are a number of ways that you can contribute and any amount of time that you're able to help will be greatly appreciated and will contribute to the overall success of the event. We look forward to having your assistance on the Tundra!
+
+As much as we would love to thank our volunteers by offering them a complimentary ticket to Frostburn, we are unfortunately UNABLE to do so. We're a small organization and are simply unable to offer such a great perk. In lieu of a complimentary ticket, the Frostburn org and community offers their undying love, devotion, and gratitude to all volunteers! Be prepared to be thanked in lots of love! After-all, Frostburn wouldn't be able to happen without the hard work of each and every one of our volunteers!
+
+Please take a moment to read over the volunteer descriptions listed below and then fill out
+
+<a href=" http://goo.gl/forms/yaT17XmNCY">The Volunteer Interest Form for Frostburn 2015 </a>
+<h3>Gate Staff/Greeter</h3>
+You will be helping to greet and check people in at the gate. Give the gift of starting someone's burn with a great memory! Gate this year will be warm and cozy, and may be a welcome retreat from your tent.
+<h3>Parking</h3>
+You will be coordinating with the Gate Staff to help ensure efficient and easy access for participants while unloading and parking their vehicles.
+<h3>EMTs/Medics</h3>
+Volunteers are needed to help with First Aid administration and to be a part of the Frostburn medical response team. The Frostburn organization is legally limited in what procedures we can treat so being a high level medic is not necessarily required.
+<h3>Rangers</h3>
+Frostburn Rangers are Regional Rangers and members of our community who have volunteered to facilitate the safety and well being of the community at Frostburn. Modeled after the Midwest Burner InterRangers and the Black Rock Rangers of Burning Man, Rangers are a non-confrontational mediating entity. Rangers participate by practicing the Art of Rangering, which includes helping fellow community members find solutions to their problems. Rangers are not cops, not your parents, and are not trying to stop you from having fun! Rangers are typically the first responders and liaisons with other Frostburn volunteers.
+<h3>DPW</h3>
+The Department of Public Works (DPW) is responsible for the physical set-up of our very own frozen Tundra! DPW volunteers help not only with ensuring that the Tundra is physically ready for 300 hearty burners, but DPW volunteers are also available post-event to help restore the Tundra back to its original state. Because of weather, “post-event” could mean the weekend following Frostburn all the way to gathering for a weekend in May, once the ground has had a chance to thaw. Throughout the event DPW volunteers respond to requests as needed to help with any structural repair necessary or issues as they arise.
+<h3>Staff Assistants</h3>
+(SA) are critical volunteers who have volunteered to be second in command in the event that any of the volunteer leads or Frostburn staff are unable to be reached when an issue arises. Each volunteer lead will have an SA to help them as necessary.
+<h3>Fire Safety/Conclave</h3>
+Want to spin fire before and during the effigy burn? We want you to as well. Gather around the effigy at 4:00pm on Saturday for the mandatory Conclave meeting to find out what's what and who's where. Questions?
+
+Performers are asked to consider and to help with the following:
+<ul>
+	<li style="text-align: left;">establish a performing area (dig snow if needed)</li>
+	<li style="text-align: left;">establish an on deck area for performers who are dipped and ready to burn</li>
+	<li style="text-align: left;">crowd control as needed (ie: if the circle needs to expand and you're not performing, please follow the direction of the fire conclave team leads)</li>
+	<li style="text-align: left;">bring your own sober person to safety you</li>
+	<li style="text-align: left;">bring your own toys, duvatyne, and FUEL</li>
+</ul>
+What not to do:
+<ul>
+	<li style="text-align: left;">No fuels other than straight coleman white gas unless you get specific approval</li>
+	<li style="text-align: left;">No hoop tosses - roll risk</li>
+	<li style="text-align: left;">No sparkle poi aka steel wool</li>
+	<li style="text-align: left;">No smoking</li>
+</ul>

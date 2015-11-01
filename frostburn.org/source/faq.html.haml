@@ -1,0 +1,8 @@
+---
+title: Frequently Asked Questions
+---
+
+%dl
+- data.faq.each do |entry|
+  %dt.faq_question= "#{entry.question}"
+  %dd.faq_answer= "#{entry.answer}"
