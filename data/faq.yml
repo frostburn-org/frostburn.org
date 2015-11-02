@@ -199,13 +199,13 @@
     
 - question: 'Where is Frostburn (Marvin''s Mountaintop) Located?'
   answer: |
-    <% link_to "Marvin's Mountaintop", "https://www.google.com/maps/myplaces?hl=en&amp;ll=39.565628,-79.746966&amp;spn=0.009677,0.021136&amp;ctz=300&amp;t=h&amp;z=16" %>
+    <%= link_to "Marvin's Mountaintop", "https://www.google.com/maps/myplaces?hl=en&amp;ll=39.565628,-79.746966&amp;spn=0.009677,0.021136&amp;ctz=300&amp;t=h&amp;z=16" %>
      39.566587, -79.747159
      Greens Run-Long Hollow Masontown,
      WV 26542
 
      Printable directions from Masontown, WV to site 
-     <% link_to "Printable Directions from Masontown, WV to site", "resources/FrostburnDirections.pdf" %>
+     <%= link_to "Printable Directions from Masontown, WV to site", "resources/FrostburnDirections.pdf" %>
      
      Approximate travel time:
      0:45 from Morgantown, WV 
