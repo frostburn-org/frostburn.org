@@ -1,5 +1,9 @@
-require 'rack'
+require 'rubygems'
+require 'middleman/rack'
 require 'rack/contrib/try_static'
+
+# Enable proper HEAD responses
+use Rack::Head
 
 # Serve files from the build directory
 use Rack::TryStatic,
