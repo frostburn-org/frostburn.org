@@ -14,17 +14,21 @@
   </head>
 
   <body class="<%= page_classes %>">
-    <img src="/images/frostburnlogo.png"></br>
-    Frostburn 2016: Thurs. Feb 11 - Mon. Feb 15<br>
-    Pre-Build and Early Access details coming soon.<br>
-    <img src="/images/header.png"></br>
+    <div class="top-header">
+      <img src="/images/frostburnlogo-header.png" class='img-responsive header-img'> <div class="header-right">Share The Warmth!</div>
+    </div>
+    <div class="top-nav">
+      <%= link_to 'Home', '/', :class => "nav-link" %>
+      <%= link_to 'Must Read', '/read-this.html', :class => "nav-link" %>
+      <%= link_to 'Tickets', '/tickets.html', :class => "nav-link" %>
+      <%= link_to 'Volunteer', '/volunteer.html', :class => "nav-link" %>
+      <%= link_to 'Financials', '/financial-reports', :class => "nav-link" %>
+      <%= link_to 'Contact', '/contact-us.html', :class => "nav-link" %>
+    </div>
+    Frostburn <%= data.event.year %>: <%= data.event.dates %><br>
+    <%= data.event.early_access %><br>
+    <!-- <img src="/images/header.png"></br> -->
     <!-- Navigation Links -->
-    <%= link_to 'Home', '/' %>
-    <%= link_to 'Must Read', '/read-this.html' %>
-    <%= link_to 'Tickets', '/tickets.html' %>
-    <%= link_to 'Volunteer', '/volunteer.html' %>
-    <%= link_to 'Financials', '/financial-reports' %>
-    <%= link_to 'Contact', '/contact-us.html' %>
     <%= yield %>
   </body>
 </html>
