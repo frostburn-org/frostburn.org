@@ -82,6 +82,16 @@ a.nav-link:active {
   font-size: 20px;
 }
 
+.faq_question {
+     float: left;
+     font-weight: bold; 
+     margin: 15px 2px;
+}
+.faq_answer {
+    float: left;
+    margin: 20px 2px 30px 5px;
+}
+
 .welcome {
   -webkit-animation-name: welcome;
   -webkit-animation-duration: .9s; }
