@@ -9,7 +9,7 @@ body {
 }
 
 .hero {
-  background: url("../images/SPF_20130216_DS7_5796-fade2.png") no-repeat center center;
+  background: url("../images/SPF_20130216_DS7_5796-fade.jpg") no-repeat center center;
   background-size: cover;
   height: 100vh; }
   .hero:before {
@@ -19,7 +19,7 @@ body {
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: linear-gradient(to bottom right, #002f4b, #637798);
+    background-image: linear-gradient(to bottom right, rgba(99, 119, 152, 0.21), rgba(20, 28, 41, 0.92)); 
     opacity: .8; }
   .hero .intro {
     padding: 3rem;
@@ -27,14 +27,14 @@ body {
     top: 50%;
     transform: translateY(-50%); }
   .hero h1 {
-    color: #fff;
+    color: #f1f1f1;
     font-size: 1.5rem;
     line-height: 1.5em;
     letter-spacing: -0.025em;
     font-weight: 300;
     text-align: center; }
   .hero p {
-    color: #fff;
+    color: #f1f1f1;
     line-height: 1.75em;
     font-weight: 200;
     text-align: center;
