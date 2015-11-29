@@ -4,3 +4,14 @@ early_access: "Pre-Build and Early Access details coming soon."
 early_access_link:
 location: "Marvin's Mountaintop"
 location_link:
+ticket_prices:
+  tier1: "$50"
+  tier2: "$75"
+  tier3: "$100" 
+  wood_load: "$25"
+  wood_cord: "$120"
+ticket_dates:
+  tier1: "January 1st"
+  tier2: "January 1st - Feburary 6th"
+  tier3: "At the Gate"
+
