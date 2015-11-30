@@ -8,8 +8,9 @@ body {
   padding: 0;
 }
 
-.body-text {
+p.body-text {
   margin: 5px;
+  max-width: 960px;
 }
 
 .hero {
