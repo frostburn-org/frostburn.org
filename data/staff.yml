@@ -4,13 +4,13 @@
        Treasurer: Shawn Ferry
        Secretary: Jessie Tymoczko
     "Event Staff":
-       "FireConcalve": fc
-       Medical: med
-#       VolunteerCoordinator: vol
-       "Frost Rangers": rang
-       "DPW": dpw
-       "Placement": pl
-       "Gate": ga
+       "FireConcalve": TBD
+       Medical: TBD
+       VolunteerCoordinator: TBD
+       "Frost Rangers": TBD
+       "DPW": TBD
+       "Placement": TBD
+       "Gate": TBD
 2015:
     "Board of Directors":
       President: Andrew "Teppy" Tepper
@@ -41,18 +41,18 @@
       DPW: Adam Lipinski
       Placement: Jessie
       Gate: Judy "KGB" Lipinski
-2013:
-    "Board of Directors":
-      President: ??
-      Vice-President: ??
-      Treasurer: ??
-      Secretary: ??
-      Director: ??
-    "Event Staff":
-      Fire Concalve: ??
-      Medical: ??
-      Volunteer Coordinator:  ??
-      Frost Rangers: ??
-      DPW: ??
-      Placement: ??
-      Gate: ??
+#2013:
+#    "Board of Directors":
+#      President: ??
+#      Vice-President: ??
+#      Treasurer: ??
+#      Secretary: ??
+#      Director: ??
+#    "Event Staff":
+#      Fire Concalve: ??
+#      Medical: ??
+#      Volunteer Coordinator:  ??
+#      Frost Rangers: ??
+#      DPW: ??
+#      Placement: ??
+#      Gate: ??

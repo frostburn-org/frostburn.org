@@ -8,6 +8,10 @@ body {
   padding: 0;
 }
 
+.body-text {
+  margin: 5px;
+}
+
 .hero {
   background: url("../images/SPF_20130216_DS7_5796-fade.jpg") no-repeat center center;
   background-size: cover;

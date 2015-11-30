@@ -14,7 +14,7 @@
   </head>
 
   <body class="<%= page_classes %>">
-    <section class="top">
+    <div class="top">
     <div class="top-header">
       <img src="/images/frostburnlogo-header.png" class='img-responsive header-img'> <div class="header-right">Share The Warmth!</div>
     </div>
@@ -28,9 +28,9 @@
     </div>
     Frostburn <%= data.event.year %>: <%= data.event.dates %><br>
     <%= data.event.early_access %><br>
+    </div>
+    <section class="body-text">
+      <%= yield %>
     </section>
-    <!-- <img src="/images/header.png"></br> -->
-    <!-- Navigation Links -->
-    <%= yield %>
   </body>
 </html>
