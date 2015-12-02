@@ -1,0 +1,19 @@
+{
+  "name": "frostburn.org",
+  "scripts": {
+  },
+  "env": {
+    "GEM_HOME": {
+      "required": true
+    },
+    "GEM_PATH": {
+      "required": true
+    },
+    "PATH": {
+      "required": true
+    }
+  },
+  "addons": [
+
+  ]
+}

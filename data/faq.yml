@@ -113,7 +113,6 @@
 - question: 'I would like to create a theme camp, but I am afraid of
     duplicating someone else''s idea. How can I be sure not to step on someone
     else''s toes?'
-
   answer: |
     Firstly, don't worry too much about it! This isn't the
     senior prom, where everyone has to show up in a different gown. What's important
@@ -143,11 +142,11 @@
     twenty-one (21) years. You are responsible for keeping any alcohol you bring out
     of the hands (and bellies) of minors.
     
-#- question: 'Is vending permitted, Will there be food and drink sales?'
-#    answer: |
-#    No. All vending, advertising and other commercial activity is
-#    prohibited at Frostburn.   Please support our gift economy by sharing, not
-#    selling. Violators will be ejected without refund.
+- question: 'Is vending permitted, Will there be food and drink sales?'
+  answer: |
+    No. All vending, advertising and other commercial activity is 
+    prohibited at Frostburn.   Please support our gift economy by sharing, not
+    selling. Violators will be ejected without refund.
     
 - question: 'I''ve been to Burning Man plenty of times. Other than
     Frostburn''s winter theme, what are the major cultural, legal or artistic
