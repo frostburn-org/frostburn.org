@@ -37,7 +37,7 @@
         <%= link_to 'Contact', '/contact-us.html', :class => "nav-link" %>
       </div>
       Frostburn <%= data.event.year %>: <%= data.event.dates %><br>
-      <%= data.event.early_access %><br>
+      <%= data.event.ticket_text %> <%= data.event.early_access %> <br>
     </div>
     <div class="body-box">
       <%= yield %>
