@@ -6,7 +6,7 @@ tags: ['financial','report']
 
 %h3 Please click to view our financial reports
 
-- Dir.glob('source/financial-reports/*.pdf') do |pdf|
+- Dir.glob('source/financial-reports/*.pdf').sort do |pdf|
   - parts = File.basename(pdf,".pdf").split(/-/)
   - report = File.basename(pdf)
   %br
