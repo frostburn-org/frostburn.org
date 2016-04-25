@@ -7,10 +7,10 @@ tags: []
 Event Details and Resources
 ------
 
-Downloadable
-<%= link_to "What? Where? When? Guide", "resources/Frostburn2016-WhatWhereWhenGuide.pdf" %>
+Downloadable <%= data.event.year %> Docs
+<%= link_to "What? Where? When? Guide", "resources/Frostburn#{data.event.year}-WhatWhereWhenGuide.pdf" %>
 &
-<%= link_to "Event Map", "resources/Frostburn2016-EventMap.pdf" %>
+<%= link_to "Event Map", "resources/Frostburn#{data.event.year}-EventMap.pdf" %>
 
 Remember to Read the <%= link_to "Frostburn Survival Guide", "resources/MarvinsMountainTop-FrostburnSurvivalGuide.pdf" %> 
 and <%= link_to "FAQs", "/faq.html" %>
