@@ -1,5 +1,5 @@
 support: "support@frostburn.org"
-placement: "notolivia@gmail.com"
+placement: "support@frostburn.org"
 art: "teppy@egenesis.com"
 volunteer: "support@frostburn.org"
 conclave:  "support@frostburn.org"
@@ -11,5 +11,6 @@ social:
 other:
  - link: "CurrentEventStaff.html"
    text: "Board of Directors and Current Event Staff"
- - link: "HistoricalEventStaff.html"
-   text: "Thank You to All of our Previous Event Staff"
+# Historical Event Staff source data is incorrect
+# - link: "HistoricalEventStaff.html"
+#   text: "Thank You to All of our Previous Event Staff"
