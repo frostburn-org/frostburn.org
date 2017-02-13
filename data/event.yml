@@ -3,16 +3,16 @@
 year: 2017
 dates: "Thursday Feb 16 - Monday Feb 20"
 early_access: "Gate Opens at Noon Thursday Feb 16th"
-ticket_text: "On Sale Now: <a href='http://frostburn.bpt.me/'>Buy Tickets</a>"
+ticket_text: "Gate Sales Only! <a href='http://frostburn.bpt.me/'>Ticket Site</a>"
 location: "Marvin's Mountaintop"
-location_link:
+location_link: 'resources/MarvinsMountainTop-FrostburnDirections.pdf'
 ticket_prices:
   early_bird: "$35"
   tier1: "$50"
   tier2: "$80"
   tier3: "$100"
-  wood_load: "TBD"
-  wood_cord: "TBD"
+  wood_load: "20"
+  wood_cord: "225"
 ticket_dates:
   early_bird: "September 10th"
   tier1: "October 1st"
