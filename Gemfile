@@ -1,3 +1,5 @@
+ruby "~> 2.2.0"
+
 # If you do not have OpenSSL installed, update
 # the following line to use "http://" instead
 source 'https://rubygems.org'
@@ -16,3 +18,4 @@ gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 gem "rack-contrib"
 gem "puma"
 gem "foundation"
+
