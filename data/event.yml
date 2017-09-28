@@ -1,9 +1,9 @@
 # You can validate your YAML here http://yaml-online-parser.appspot.com/
 # Watch out for quotes in things like links
 year: 2018
-dates: "Tentative Thursday Feb 15 - Monday Feb 19th"
+dates: "Thursday Feb 15 - Monday Feb 19th"
 early_access: "T.B.D."
-ticket_text: "2017 was a success. See You Next Year!"
+ticket_text: "Start planning for 2018!"
 location: "Marvin's Mountaintop"
 location_link: 'resources/MarvinsMountainTop-FrostburnDirections.pdf'
 ticket_prices:
