@@ -3,7 +3,7 @@
 year: 2018
 dates: "Thursday Feb 15 - Monday Feb 19th"
 early_access: "T.B.D."
-ticket_text: "Start planning for 2018!"
+ticket_text: "On Sale Now!"
 location: "Marvin's Mountaintop"
 location_link: 'resources/MarvinsMountainTop-FrostburnDirections.pdf'
 ticket_prices:
@@ -11,10 +11,10 @@ ticket_prices:
   tier1: "$50"
   tier2: "$80"
   tier3: "$100"
-  wood_load: "20"
-  wood_cord: "225"
+  wood_load: "$20"
+  wood_cord: "$225"
 ticket_dates:
-  early_bird: "September 10th"
-  tier1: "October 1st"
-  tier2: "January 1st - Feburary 6th"
+  early_bird: "October 19th"
+  tier1: "October 19th"
+  tier2: "January 1st - Feburary 2nd"
   tier3: "At the Gate"
