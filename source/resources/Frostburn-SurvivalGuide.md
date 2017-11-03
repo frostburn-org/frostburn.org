@@ -153,11 +153,12 @@ the event:
 * You are required to behave in a socially responsible manner.
 
 * You are expected to adhere to the Ten Principles. Remember, membership in our
-* community is a privilege. Although we welcome and value your participation, we
-* reserve the right to eject from the event, without refund, anyone who cannot
-* conduct themselves in accordance with all laws, rules and regulations.
+community is a privilege. Although we welcome and value your participation, we
+reserve the right to eject from the event, without refund, anyone who cannot
+conduct themselves in accordance with all laws, rules and regulations.
+
 * Frostburners must be able to present a valid admission laminate, wirstband, or
-* site token at all times.
+site token at all times.
 
 The following list should help you remember many of the most important
 necessities.
@@ -178,7 +179,7 @@ that you can thaw out.
 
 * A First Aid Kit.
 
-* A well­outfitted, 3.5­ to 4­season camping tent in good condition! Recreational
+* A well­outfitted, 3.5­ to 4­ season camping tent in good condition! Recreational
 vehicles, domes, and hexayurts or portable, MOOP free and seasonable structures
 are also welcome. See ***Winter Camping Survival*** for more information about
 Winter camping.
@@ -308,16 +309,17 @@ hit the road.
 * Consider Carpooling in a 4x4 or all­wheel drive vehicle. Easy access parking
 can sometimes be at a premium at Frostburn, especially in the event of bad
 weather which may cause some of our plowed areas to become less accessible.
-Carpooling helps everyone out by giving everyone access to more “premium”/easily
+Carpooling helps everyone out by giving everyone access to more *premium*/easily
 accessible spots. Prepare for winter driving conditions before you leave home.
 Even if the weather is good and roads are clear, there is no guarantee that
-things won't change by the time you arrive at Frostburn. Route 7 is generally
-well­maintained, but the final stretch up the mountain is cleared by the county.
-This road is not heavily traveled and therefore a low priority to maintenance
-crews. Local residents rely on four­wheel­drive vehicles with snow tires or snow
-chains; if at all possible, you should too! At the very least, prepare for the
-worst and don't overestimate the capabilities of your vehicle. Better to prepare
-too much than not enough!
+things won't change by the time you arrive at Frostburn.
+
+* Route 7 is generally well­maintained, but the final stretch up the mountain is
+cleared by the county. This road is not heavily traveled and therefore a low
+priority to maintenance crews. Local residents rely on four­wheel­drive vehicles
+with snow tires or snow chains; if at all possible, you should too! At the very
+least, prepare for the worst and don't overestimate the capabilities of your
+vehicle. Better to prepare too much than not enough!
 
 * Arrive Alive... Be sure that you get enough sleep before you depart so that
 you're not fatigued on the drive.
@@ -334,7 +336,7 @@ installation through the Frostburn website.
 ### Frostburn will take place at:
 
 ```
-Marvin’s Mountain Top
+Marvin’s Mountaintop
 Greens Run­Long Hollow, Masontown, WV
 ( 39.566587, ­79.747159 )
 ```
@@ -431,9 +433,11 @@ option than a regular air mattress. Mylar sheeting can be placed betw
 bottom layer of bedding to reflect any body heat that escapes back to you for an extra measure.
 
 **Space heaters and camp stoves that consume wood­based or oil­based fuel carry a serious
-risk of fire, carbon monoxide poisoning, air pollution and oxygen depletion. Do not operate any
-heat source that poses a threat to you or other attendees in a closed space. If you plan to burn
-fuel in an enclosed space, use a combination FIRE and CARBON MONOXIDE detector!**
+risk of fire, carbon monoxide poisoning, air pollution and oxygen depletion.** 
+
+** Do not operate any heat source that poses a threat to you or other attendees in
+a closed space. If you plan to burn fuel in an enclosed space, use a combination
+FIRE and CARBON MONOXIDE detector!**
 
 ### **Outdoor Tent Camping**
 
@@ -457,7 +461,7 @@ enjoyable experience:
 * There are no electrical hookups for RVs
 
 * Water and sewer hookups are not available on site.
-*
+
 * In very extreme temperatures, your RV heating system may not work effectively, so it
 might make sense to bring an electric space heater as a backup heating source, but also
 your generator might freeze, so be prepared.
@@ -466,11 +470,11 @@ your generator might freeze, so be prepared.
 believe has the lowest potential for you to get stuck. That said, in the unpredictable
 weather of West Virginia during the winter months we can't guarantee anything.
 Therefore, please take precautions when you arrive and depart: 
-  1. bring snow removal
+ 1. bring snow removal
 equipment
-  1. consider bringing 2”x6” or 2”x8” boards to park on such that the RV
+ 1. consider bringing 2”x6” or 2”x8” boards to park on such that the RV
 doesn't sink into the snow; and
-  1. if you find yourself getting stuck while attempting to
+ 1. if you find yourself getting stuck while attempting to
 leave: STOP! Take a breather and get people to help push (or pull with their 4x4)...digging
 into the snow will just make it tougher to extract the vehicle later. Follow these
 considerations and you'll minimize the possibility of needing to call for more expensive
@@ -501,221 +505,265 @@ bringing multiple changes of clothes and multiple pairs of gloves (or�
 more warmth), hats, boots, etc. so you'll always have something dry, as you may change
 your ensemble two or three times as often as you would under normal conditions.
 
-* **Costumes** are strongly encouraged . Faux fur is always in fashion. Don't forget colorful
+* **Costumes** are strongly encouraged. Faux fur is always in fashion. Don't forget colorful
 hats, gloves and scarves!
 
-* **Seek out heat­producing art installations**  and theme camps based around campfires.
-Enjoy the company of other participants to warm your body and soul. Try not to spend
-much time alone in the cold, and keep an eye on other solo participants.  **Share the
-Warmth** of our community by helping others stay dry and comfortable. You'll be amazed
-how much better you feel when you help a fellow Frostburner in need.
-* **Be careful not to overheat** . Also, think twice about using a personal heating device that
-may dry your skin, cause burns or create a fire hazard. Stay on your guard, and
-**_maintain a safe distance from campfires_** , fire art, fire performances and other heat
-sources. See Fire Safety for more information.
+* **Seek out heat­producing art installations** and theme camps based around
+campfires. Enjoy the company of other participants to warm your body and soul.
+Try not to spend much time alone in the cold, and keep an eye on other solo
+participants.  **Share the Warmth** of our community by helping others stay dry
+and comfortable. You'll be amazed how much better you feel when you help a
+fellow Frostburner in need.
+
+* **Be careful not to overheat** . Also, think twice about using a personal
+heating device that may dry your skin, cause burns or create a fire hazard. Stay
+on your guard, and **_maintain a safe distance from campfires_** , fire art,
+fire performances and other heat sources. See **Fire Safety** for more
+information.
 
 ## **Good Neighbors**
-Although Frostburn has few neighbors, residences on and near the event site are not affiliated
-with our event. Stay within campground boundaries and only use public roadways. Do not
-attempt to enter or exit the event site except where instructed. High­volume sound systems may
-only be operated in designated areas and must not disturb our neighbors. Sound equipment that
-causes problems after an initial warning may be relocated or disabled; repeat offenders may be
-ejected from the event.
+
+Although Frostburn has few neighbors, residences on and near the event site are
+not affiliated with our event. Stay within campground boundaries and only use
+public roadways. 
+
+Do not attempt to enter or exit the event site except where instructed.
+High­volume sound systems may only be operated in designated areas and must not
+disturb our neighbors. Sound equipment that causes problems after an initial
+warning may be relocated or disabled; repeat offenders may be ejected from the
+event.
 
 
 ## **Public Safety**
-Cooperation is the cornerstone of our Frostburn event and the burner community. However,
-there is no guarantee that a few bad apples won't slip into the event and cause harm. Always
-maintain awareness of your personal safety during the event. Secure your belongings before you
-leave your camp, get to know your neighbors and work together to keep things secure. Make
-new friends, but be alert to the actions and intentions of those you meet. Be cautious about
-accepting gifts of drink or food from strangers. Before wandering off alone or with a new friend,
-tell someone you know and trust where you are going. Learn to identify event and campground
-staff by their special identification laminates.
 
-Frostburn and our hosts support all local, state and federal laws. As in any other community, you
-are required to know, respect and obey the law. Frostburn does not promote or condone the use
-of illegal drugs, which can cause a serious health risk in hazardous winter conditions. The legal
-drinking age in Pennsylvania is twenty­one. Sexual conduct is prohibited in the presence of
-minors and in civic spaces. All residents of our community also have a right to privacy in their
-camp quarters. Know your rights and respect the rights of other participants!
+Cooperation is the cornerstone of our Frostburn event and the burner community.
+However, there is no guarantee that a few bad apples won't slip into the event
+and cause harm. Always maintain awareness of your personal safety during the
+event. Secure your belongings before you leave your camp, get to know your
+neighbors and work together to keep things secure. Make new friends, but be
+alert to the actions and intentions of those you meet. Be cautious about
+accepting gifts of drink or food from strangers. Before wandering off alone or
+with a new friend, tell someone you know and trust where you are going. Learn to
+identify event and campground staff by their special identification laminates.
 
-In the event that a conflict arises, event staff will act as community mediators to help resolve
-disputes. As with other burns, community mediators called Frostburn Rangers may also be
-available to help resolve conflicts between participants. However, neither the event staff or
-Rangers are law­enforcement officials, and any breaches of the law or conflicts stemming from
-breaches of the law which cannot be resolved via mediation may result in expulsion from the
-event or (as a last resort) be referred to local law­enforcement. If you have prior experience as a
-Ranger, or are interested in teaming up with an experienced Ranger at Frostburn, please email
-volunteer@frostburn.org before the event to volunteer.
+Frostburn and our hosts support all local, state and federal laws. As in any
+other community, you are required to know, respect and obey the law. Frostburn
+does not promote or condone the use of illegal drugs, which can cause a serious
+health risk in hazardous winter conditions. The legal drinking age in
+Pennsylvania is twenty­one. Sexual conduct is prohibited in the presence of
+minors and in civic spaces. All residents of our community also have a right to
+privacy in their camp quarters. Know your rights and respect the rights of other
+participants!
 
-That tingle you feel might be more than just the winter air: many participants think of a burn event
-as an erotic, sexually­charged environment. Know and express your own sexual boundaries. It is
-imperative that you ask about and respect the boundaries of others. Remember, silence is not
-consent. Yes means yes. Everything else means NO!
+In the event that a conflict arises, event staff will act as community mediators
+to help resolve disputes. As with other burns, community mediators called
+Frostburn Rangers may also be available to help resolve conflicts between
+participants. However, neither the event staff or Rangers are law­enforcement
+officials, and any breaches of the law or conflicts stemming from breaches of
+the law which cannot be resolved via mediation may result in expulsion from the
+event or (as a last resort) be referred to local law­enforcement. If you have
+prior experience as a Ranger, or are interested in teaming up with an
+experienced Ranger at Frostburn, please email volunteer@frostburn.org before the
+event to volunteer.
 
-Local police are not expected to patrol the event. If you encounter a public safety situation that
-cannot be resolved by venue or event staff or the Frostburn Rangers, call  **9­1­1**  for the police.
+That tingle you feel might be more than just the winter air: many participants
+think of a burn event as an erotic, sexually­charged environment. Know and
+express your own sexual boundaries. It is imperative that you ask about and
+respect the boundaries of others. Remember, silence is not consent. Yes means
+yes. Everything else means NO!
+
+Local police are not expected to patrol the event. If you encounter a public
+safety situation that cannot be resolved by venue or event staff or the
+Frostburn Rangers, call  **9­1­1**  for the police.
 
 ## **Fire Safety**
-Fire is an integral part of every burn, but it's particularly important to us. Frostburn was created to
-showcase fire’s value as both an art medium and heat source—at the same time. Communities
-have always formed and gathered around fire.  The warmth of fire is greater than BTUs: it also
-creates culture and fosters relationships.
 
-Frostburn participants must understand and perform all responsibilities for fire safety. When
-used for artistic purposes, fire must not endanger participants or damage property. All artists
-and crews are solely responsible for their art. This includes verification, through adequate
-testing, that performers, participants, staff and safety personnel will not be endangered by the
-piece. Operators and performers must not smoke while participating with any fire project, and
-must not consume or be under the influence of alcohol or drugs of any kind while performing
-their duties. Negligence, carelessness and unsafe conditions will not be tolerated. If you have
-questions or would like to volunteer for the fire safety, please email volunteer@frostburn.org
-Fires are prohibited on all paved areas and in close proximity to campground structures.
-Frostburn assumes NO responsibility for the safety of ANY art projects or performances,
-whether approved or not.
+Fire is an integral part of every burn, but it's particularly important to us.
+Frostburn was created to showcase fire’s value as both an art medium and heat
+source—at the same time. Communities have always formed and gathered around
+fire.  The warmth of fire is greater than BTUs: it also creates culture and
+fosters relationships.
+
+Frostburn participants must understand and perform all responsibilities for fire
+safety. When used for artistic purposes, fire must not endanger participants or
+damage property. All artists and crews are solely responsible for their art.
+This includes verification, through adequate testing, that performers,
+participants, staff and safety personnel will not be endangered by the piece.
+Operators and performers must not smoke while participating with any fire
+project, and must not consume or be under the influence of alcohol or drugs of
+any kind while performing their duties. Negligence, carelessness and unsafe
+conditions will not be tolerated. If you have questions or would like to
+volunteer for the fire safety, please email volunteer@frostburn.org Fires are
+prohibited on all paved areas and in close proximity to campground structures.
+Frostburn assumes NO responsibility for the safety of ANY art projects or
+performances, whether approved or not.
 
 **Open Fire**
 
-Any art that uses basic fire sources (other than pressurized or liquid fuels), is called an open
-fire. Danger is generally proportional to size, and appropriate precautions must be taken to keep
-fire under control.  The fire should be clearly visible to participants, and ways to escape or
-extinguish the fire, should the need arise, should also be obvious to any bystanders.
+Any art that uses basic fire sources (other than pressurized or liquid fuels),
+is called an open fire. Danger is generally proportional to size, and
+appropriate precautions must be taken to keep fire under control.  The fire
+should be clearly visible to participants, and ways to escape or extinguish the
+fire, should the need arise, should also be obvious to any bystanders.
 Guidelines for open fires:
-* Open fire must be in a fire ring or burn­proof container. At the request of the venue owner
-we must try to minimize burn scars.
-* Installations that become engulfed in flames and/or produce dangerous heat require a
-safety perimeter and properly­trained fire safety personnel. If you have any question
-about the size of the perimeter, err on the side of caution. You are required to properly
-research and understand the dangers of large­scale fires and take every precaution to
-prevent a safety hazard.
+
+* Open fire must be in a fire ring or burn­proof container. At the request of the
+venue owner we must try to minimize burn scars.
+
+* Installations that become engulfed in flames and/or produce dangerous heat
+require a safety perimeter and properly­trained fire safety personnel. If you
+have any question about the size of the perimeter, err on the side of caution.
+You are required to properly research and understand the dangers of large­scale
+fires and take every precaution to prevent a safety hazard.
 
 **Flame Effects**
 
-Flames that are automated, switched, pressurized or having any action beyond simply “being on
-fire” are called flame effects. Projects that use propane or liquid fuels also qualify.
-Every flame effects artist is required to follow these guidelines:
-* Understand and properly use all equipment related to their materials, including, but not
-limited to, fuel lines,  fittings and pressure levels;
+Flames that are automated, switched, pressurized or having any action beyond
+simply “being on fire” are called flame effects. Projects that use propane or
+liquid fuels also qualify. Every flame effects artist is required to follow
+these guidelines:
 
-* Prepare a safety plan specific to their piece, and be certain that all persons attending
-and/or assisting with the piece know and understand the plan;
+* Understand and properly use all equipment related to their materials,
+including, but not limited to, fuel lines,  fittings and pressure levels;
 
-* Install the piece such that all flames and fuel are a sufficient distance from structures,
-vehicles and other installations;
+* Prepare a safety plan specific to their piece, and be certain that all persons
+attending and/or assisting with the piece know and understand the plan;
+
+* Install the piece such that all flames and fuel are a sufficient distance from
+structures, vehicles and other installations;
 
 * Provide sufficient and proper fire extinguishers;
 
-* Attest that all effects operators and assistants are at least eighteen years of age and
-trained in the proper use of the fire extinguishers provided; and
+* Attest that all effects operators and assistants are at least eighteen years
+of age and trained in the proper use of the fire extinguishers provided; and
 
 * Inspect all equipment as often as necessary to ensure proper
 assembly and operation.
 
-This list is not all­inclusive. Additional project­specific precautions may be necessary. It is the
-responsibility of the artist(s) and his/her/their team to assure the safety of all participants in
-regards to each project.
+**This list is not all­inclusive.** Additional project­ specific precautions may be
+necessary. It is the responsibility of the artist(s) and his/her/their team to
+assure the safety of all participants in regards to each project.
 
 **Pyrotechnics**
 
-The use of fireworks, explosives or projectiles for art, craft or science is called pyrotechnics.
-Use of such materials requires a license from the State of West Virginia. Unlicensed use of such
-materials is unlawful and prohibited. Licensed fireworks operators must present certification and
-plans to event organizers at least two weeks in advance. We may reject any request to use
-Pyrotechnics. Any approved project must adhere to the requirements for Flame Effects, as well
-as all applicable state laws and regulations.
+The use of fireworks, explosives or projectiles for art, craft or science is
+called pyrotechnics. Use of such materials requires a license from the State of
+West Virginia. Unlicensed use of such materials is unlawful and prohibited.
+Licensed fireworks operators must present certification and plans to event
+organizers at least two weeks in advance. We may reject any request to use
+Pyrotechnics. Any approved project must adhere to the requirements for Flame
+Effects, as well as all applicable state laws and regulations.
 
 **Fire Performance**
 
 Any performance involving human interaction with fire requires specific precautions:
+
 * All equipment must be inspected before use.
+
 * At least one person should identified as a “safety” for the performance. This person will
 have a fire blanket  or other means of extinguishing any fires that are caused.
+
 * If multiple performers are involved, the performance should not begin until all performers
 and safety personnel are in place and ready.
-* Do not smoke while performing or perform under the influence of alcohol or any drug!
-The following minimum safety perimeters are required for fire performances:
-­Finger fire and hand­held finger props: 4 feet.
-­Torches, chains, staves and small props: 15 feet.
-­Open fire: twice the artwork height (a 5­ foot­tall piece, for example, requires a 10­foot
-perimeter).
 
-­Flame effects, except from flame retardant decorations and those intended to burn: 25 feet.
-­Pyrotechnics: 50 feet (larger if appropriate).
+* Do not smoke while performing or perform under the influence of alcohol or any drug!
+
+The following minimum safety perimeters are required for fire performances:
+* ­Finger fire and hand­held finger props: 4 feet.
+­
+* Torches, chains, staves and small props: 15 feet.
+
+* ­Open fire: twice the artwork height (a 5­ foot­tall piece, for example, requires
+a 10­foot perimeter).
+
+­* Flame effects, except from flame retardant decorations and those intended to
+burn: 25 feet.
+­
+*Pyrotechnics: 50 feet (larger if appropriate).
 
 ## **Firewood Matters**
-The Emerald Ash Borer is an invasive insect that  poses a serious threat to the health of our
-forests. The WV Department of Forestry  has imposed a quarantine on live trees, firewood, dead
-wood and even wood chips in local counties. It is unlawful to move any hardwood firewood into
-or out of the quarantine area, which includes our venue, so don’t bring wood from home.
-To ensure compliance with this mandate, all firewood at Frostburn must be purchased from our
-approved local vendor . Firewood may be purchased in advance for the best price. It may also be
-purchased on site, but the price will be significantly higher and supplies may run out. Although
-unused firewood is non­refundable and may not be removed from the site or resold during the
-event, we do strongly recommend that you estimate your need and purchase your supply in
-advance.
 
-Firewood consumption is unpredictable and varies based on the size and duration of the fire,
-type of wood and ambient temperature. If you are planning a round­the clock fire installation for
-the entire event, you would be wise to purchase at least one truckload of firewood in advance.
-The price per truckload is significantly less than the cost of purchasing smaller quantities at the
+The Emerald Ash Borer is an invasive insect that  poses a serious threat to the
+health of our forests. The WV Department of Forestry  has imposed a quarantine
+on live trees, firewood, dead wood and even wood chips in local counties. It is
+unlawful to move any hardwood firewood into or out of the quarantine area, which
+includes our venue, so don’t bring wood from home. To ensure compliance with
+this mandate, all firewood at Frostburn must be purchased from our approved
+local vendor . Firewood may be purchased in advance for the best price. It may
+also be purchased on site, but the price will be significantly higher and
+supplies may run out. Although unused firewood is non­refundable and may not be
+removed from the site or resold during the event, we do strongly recommend that
+you estimate your need and purchase your supply in advance.
+
+Firewood consumption is unpredictable and varies based on the size and duration
+of the fire, type of wood and ambient temperature. If you are planning a
+round­the clock fire installation for the entire event, you would be wise to
+purchase at least one truckload of firewood in advance. The price per truckload
+is significantly less than the cost of purchasing smaller quantities at the
 event!
 
 ## **Emergency Services**
-Several experienced EMTs will be attending Frostburn as participants and may be available to
-provide assistance in the event of an emergency. However, participants are ultimately
-responsible for their own well being and health.
 
-If you require assistance or treatment and are mobile, please find someone to escort you to a
-warm place and contact a Frostburn organizer, Ranger, or EMT (if available). If the situation is an
-emergency and you need immediate assistance, call 9­1­1 (see below for dispatch information).
-Remember, there's no shame in feeling sick. Ask for help if you need it;  we're all here for each
-other.
+Several experienced EMTs will be attending Frostburn as participants and may be
+available to provide assistance in the event of an emergency. However,
+participants are ultimately responsible for their own well being and health.
 
-If you are an experienced health care provider and would like to make a meaningful contribution
-to the Frostburn community and event, please email volunteer@frostburn.org beforehand to
-join the team!
+If you require assistance or treatment and are mobile, please find someone to
+escort you to a warm place and contact a Frostburn organizer, Ranger, or EMT (if
+available). If the situation is an emergency and you need immediate assistance,
+call 9­1­1 (see below for dispatch information). Remember, there's no shame in
+feeling sick. Ask for help if you need it;  we're all here for each other.
 
-If you or someone you know _(or encounter)_ requires emergency services, **call 9­1­1** and inform
-the dispatcher that you are at:
+If you are an experienced health care provider and would like to make a
+meaningful contribution to the Frostburn community and event, please email
+volunteer@frostburn.org beforehand to join the team!
+
+If you or someone you know _(or encounter)_ requires emergency services, **call
+9­1­1** and inform the dispatcher that you are at:
 > Marvin’s Mountain Top, Greens Run­ Long Hollow, Masontown, WV
 
 This location information will be posted in multiple locations on site.
 
 
 ## **The Gift Economy**
-To provide an experience free of commercial exploitation, sales of products or services of any
-kind are prohibited at the event. This includes the sale of handmade items, food and beverages
-for any amount, even if it is less than the cost of production. Anyone caught in violation will be
-ejected without refund. The only exception is for our authorized firewood sales! We strongly
-encourage you to offer meaningful gifts to others. The more you put into the event and
-community, the more you will get out of Frostburn. Lend a hand to someone in need. Create and
-share works of art. Share the Warmth! Frostburn is an all­volunteer, community­sponsored
-event. Everyone is unpaid, even the event staff, artists and performers. Please do your part by
-volunteering time and effort before, during or after the event. Maybe you can serve as a Greeter,
-Ranger, DPW, or in another capacity? Let us know how you're willing to help: volunteer@frostburn.org
+
+To provide an experience free of commercial exploitation, sales of products or
+services of any kind are prohibited at the event. This includes the sale of
+handmade items, food and beverages for any amount, even if it is less than the
+cost of production. Anyone caught in violation will be ejected without refund.
+The only exception is for our authorized firewood sales! We strongly encourage
+you to offer meaningful gifts to others. The more you put into the event and
+community, the more you will get out of Frostburn. Lend a hand to someone in
+need. Create and share works of art. Share the Warmth! Frostburn is an
+all­volunteer, community­sponsored event. Everyone is unpaid, even the event
+staff, artists and performers. Please do your part by volunteering time and
+effort before, during or after the event. Maybe you can serve as a Greeter,
+Ranger, DPW, or in another capacity? Let us know how you're willing to help:
+[volunteer@frostburn.org](mailto:volunteer@frostburn.org)
 
 ## **Mutant Vehicles**
-Frostburn welcomes art cars and other mutant vehicles to participate in the event. All vehicles
-must be approved to cruise the venue. To receive approval, a vehicle must:
+
+Frostburn welcomes art cars and other mutant vehicles to participate in the
+event. All vehicles must be approved to cruise the venue. To receive approval, a
+vehicle must:
 
 * Be structurally and mechanically sound at all times;
 
 * Have 4x4 drive or tracks or be on sleds;
 
-* Provide adequate safety for all passengers, including safety from falling off or injury
-caused by vehicle modifications;
+* Provide adequate safety for all passengers, including safety from falling off
+or injury caused by vehicle modifications;
 
-* Be driven safely and carefully at all times by a driver not under the influence of drugs or
-alcohol;
+* Be driven safely and carefully at all times by a driver not under the
+influence of drugs or alcohol;
 
 * Provide adequate safety to all pedestrians;
 
 * Adhere to the 5 miles­per­hour speed limit;
 
-* Come to a complete stop before allowing anyone to board or disembark, and stop to
-allow passengers to disembark immediately upon request (or as soon as it is safe to do
-so);
+* Come to a complete stop before allowing anyone to board or disembark, and stop
+to allow passengers to disembark immediately upon request (or as soon as it is
+safe to do so);
 
 * Not be driven erratically (jerking, swerving, etc.);
 
@@ -724,71 +772,82 @@ so);
 * Always yield the right­of­way to pedestrians and vehicles;
 
 * Display a Frostburn DMV placard when operating.
-A mutant vehicle's owner and operator are jointly responsible for the safe behavior of its
-passengers. Permission to board and occupy a mutant vehicle is at the sole discretion of the
-owner and/or his/her designated representative.
+
+A mutant vehicle's owner and operator are jointly responsible for the safe
+behavior of its passengers. Permission to board and occupy a mutant vehicle is
+at the sole discretion of the owner and/or his/her designated representative.
 
 ## **Media, Photography, and Video**
 
-Photography _(including video recording and media coverage)_ are welcome at Frostburn, but
-respect for the privacy of our participants is everyone's responsibility. As a No Spectators event
-(see **Frostburn Jargon**), you may only use photography to document your own
-experience at Frostburn. Remember that while your boss might join you at Frostburn, for others
-the wrong photos can make their life very complicated. Remember to Ask First! Do not interfere
-with anyone's experience by pointing a camera where it is not welcome! If you feel that someone
-with a camera is causing a nuisance, contact a Ranger or member of the event staff.
+Photography _(including video recording and media coverage)_ are welcome at
+Frostburn, but respect for the privacy of our participants is everyone's
+responsibility. As a No Spectators event (see **Frostburn Jargon**), you may
+only use photography to document your own experience at Frostburn. Remember that
+while your boss might join you at Frostburn, for others the wrong photos can
+make their life very complicated. Remember to Ask First! Do not interfere with
+anyone's experience by pointing a camera where it is not welcome! If you feel
+that someone with a camera is causing a nuisance, contact a Ranger or member of
+the event staff.
 
-Remember Immediacy, enjoy the event,
-Commercial use of all imagery captured at Frostburn is prohibited without express permission.
-Images captured for personal use must not be professionally distributed. Failure to comply with
-these regulations may result in eviction from the event without refund. Commercial use of
-images without express permission may result in prosecution. Respect the Frostburn
-community, especially when you are behind the lens.
+Remember Immediacy, enjoy the event, Commercial use of all imagery captured at
+Frostburn is prohibited without express permission. Images captured for personal
+use must not be professionally distributed. Failure to comply with these
+regulations may result in eviction from the event without refund. Commercial use
+of images without express permission may result in prosecution. Respect the
+Frostburn community, especially when you are behind the lens.
 
 ## **Leave no Trace**
-As a Leave No Trace event, Frostburn is committed to leaving our venue better than we find it, to
-ensure that we are invited back. It is important that everyone do their part. Here are some tricks:
+
+As a Leave No Trace event, Frostburn is committed to leaving our venue better
+than we find it, to ensure that we are invited back. It is important that
+everyone do their part. Here are some tricks:
 
 * Plan ahead. Don't make a mess if you can avoid it.
 
-* Clean as you go. Left alone, a little mess often gets worse over time. It's usually easier to
-clean up smaller messes now and then, than to deal with a larger mess all at once.
+* Clean as you go. Left alone, a little mess often gets worse over time. It's
+usually easier to clean up smaller messes now and then, than to deal with a
+larger mess all at once.
 
 * Don't let it hit the ground, so you won't have to stoop to pick it up!
+MOOP disapears under snow, dust, or mud 
 
-* Carry a portable ash tray to dispose of your butts. An empty metal candy or mint
-container works well.
+* Carry a portable ash tray to dispose of your butts. An empty metal candy or
+mint container works well.
 
-* Create valuable, meaningful gifts that are not likely to be discarded. Don't give away
-trinkets that become MOOP.
+* Create valuable, meaningful gifts that are not likely to be discarded. Don't
+give away trinkets that become MOOP.
 
-* Scour your campsite, art installation and/or theme camp before leaving. Pick up what you
-find... if it's yours or not.
+* Scour your campsite, art installation and/or theme camp before leaving. Pick
+up what you find... if it's yours or not.
 
 * Don't leave debris around anything you create.
 
-* Carefully clean up broken glass or other sharp objects. Wear gloves! Use a broom and
-dustpan. Place larger pieces in a container they cannot pierce.
+* Carefully clean up broken glass or other sharp objects. Wear gloves! Use a
+broom and dustpan. Place larger pieces in a container they cannot pierce.
 
 * Bring more trashbags that then you expect to use.
 
-* Take it home. Frostburn has no community waste disposal. You are responsible for
-removing all of your discards from the venue and disposing of them when you get home.
+* Take it home. Frostburn has no community waste disposal. You are responsible
+for removing all of your discards from the venue and disposing of them when you
+get home.
 
 * Reduce, Reuse, Recycle! Leave excess packaging at home. Use your own reusable,
 non­glass drink container when visiting theme camps and installations. Choose
 recyclable containers and energy efficient light and power sources. Salvage your camp
 materials and art projects for reuse or adaptation at your next burn event.
 
-* Every participant is required to remove everything from the site that he/she brings or
-acquires. This includes trash,  other discards and all personal belongings.
+* Every participant is required to remove everything from the site that he/she
+brings or acquires. This includes trash,  other discards and all personal
+belongings.
 
-* Portable toilets are for human waste and single­ply toilet paper ONLY! Remember, _ if it
-wasn't in your body, don't put it in the potty!_
+* Portable toilets are for human waste and single­ply toilet paper ONLY!
+Remember, _ if it wasn't in your body, don't put it in the potty!_
 
 ## **Returning to Everyday Life**
+
 Frostburn is a Leave No Trace event. When it is time to leave, be sure to pack
-out all of your belongings, as well as any waste that you accumulated during the event. 
+out all of your belongings, as well as any waste that you accumulated during the
+event. 
 
 Use caution while departingthe venue, and be careful during your trip home. 
 Stay sober, take frequent breaks and don'thurry... we want you to make it safe
