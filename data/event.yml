@@ -11,8 +11,8 @@ ticket_prices:
   tier1: "$50"
   tier2: "$80"
   tier3: "$100"
-  wood_load: "$20"
-  wood_cord: "$225"
+  wood_load: "25"
+  wood_cord: "225"
 ticket_dates:
   early_bird: "October 19th"
   tier1: "October 19th"
