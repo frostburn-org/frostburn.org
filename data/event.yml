@@ -1,20 +1,20 @@
 # You can validate your YAML here http://yaml-online-parser.appspot.com/
 # Watch out for quotes in things like links
-year: 2018
-dates: "Thursday Feb 15 - Monday Feb 19th"
-early_access: "Early Access: Soon"
-ticket_text: "Tickets: On Sale Now!"
+year: 2019
+dates: "Thursday Feb 14 - Monday Feb 18th"
+early_access: "Early Access: Soon!"
+ticket_text: "Tickets: On Sale Soon!"
 location: "Marvin's Mountaintop"
 location_link: 'resources/MarvinsMountainTop-FrostburnDirections.pdf'
 ticket_prices:
   early_bird: "$35"
-  tier1: "$50"
+  tier1: "$55"
   tier2: "$80"
   tier3: "$100"
-  wood_load: "25"
-  wood_cord: "225"
+  wood_load: "TBD"
+  wood_cord: "TBD"
 ticket_dates:
-  early_bird: "October 19th"
-  tier1: "October 19th"
-  tier2: "January 1st - Feburary 2nd"
+  early_bird: "October 17th"
+  tier1: "October 17th"
+  tier2: "January 1st - Feburary 4th"
   tier3: "At the Gate"
