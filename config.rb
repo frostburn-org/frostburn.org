@@ -3,10 +3,10 @@ require 'middleman/rack'
 require 'rack/contrib/try_static'
 
 # Enable proper HEAD responses
-use Rack::Head
+use ::Rack::Head
 
 # Serve files from the build directory
-use Rack::TryStatic,
+use ::Rack::TryStatic,
   root: 'build',
   urls: %w[/],
   try: ['.html', 'index.html', '/index.html']
@@ -89,9 +89,4 @@ configure :build do
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
-end
-
-after_configuration do
-  @bower_config = JSON.parse(IO.read("#{root}/.bowerrc"))
-  sprockets.append_path File.join "#{root}", @bower_config["directory"]
 end
