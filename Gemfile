@@ -4,6 +4,8 @@ ruby "~> 2.4.0"
 # the following line to use "http://" instead
 source 'https://rubygems.org'
 
+gem "bundler", "~>1.16.0"
+
 gem "middleman", "~>4.2.0"
 
 gem "middleman-livereload"
