@@ -3,10 +3,14 @@
 body {
   background: #637798;
   text-align: center;
-  font-family: sans-serif; 
+  font-family: sans-serif;
   margin: 0;
   padding: 0;
 }
+
+div.guide-text {
+    text-align: left;
+  }
 
 .body-text {
   margin: 1em;
@@ -23,7 +27,7 @@ body {
   right: 0;
   bottom: 0;
   left: 0;
-  background-image: linear-gradient(to bottom right, rgba(99, 119, 152, 0.21), rgba(20, 28, 41, 0.92)); 
+  background-image: linear-gradient(to bottom right, rgba(99, 119, 152, 0.21), rgba(20, 28, 41, 0.92));
   opacity: .8;
   height: 100vh; }
 .hero .intro {
@@ -62,7 +66,7 @@ margin: 0 auto; }
     text-align: right;
     font-size: 2.5rem; }
   .hero p {
-    text-align: right; } 
+    text-align: right; }
 }
 
 
@@ -147,7 +151,7 @@ a.nav-link:active {
 }
 .faq_question {
   float: left;
-  font-weight: bold; 
+  font-weight: bold;
   margin: 10px 0px 10px 10px;
 }
 .faq_answer {

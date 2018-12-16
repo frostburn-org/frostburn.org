@@ -1,3 +1,6 @@
+---
+layout: guide
+---
 # Frostburn Survival Guide
 
 Winter in West Virginia is highly unpredictable, and governed by physical laws
@@ -809,7 +812,7 @@ usually easier to clean up smaller messes now and then, than to deal�
 larger mess all at once.
 
 * Don't let it hit the ground, so you won't have to stoop to pick it up!
-MOOP disapears under snow, dust, or mud 
+MOOP disapears under snow, dust, or mud
 
 * Carry a portable ash tray to dispose of your butts. An empty metal candy or
 mint container works well.
