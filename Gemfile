@@ -17,3 +17,4 @@ gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 gem "rack-contrib"
 gem "puma"
 gem "foundation"
+gem "rake"
