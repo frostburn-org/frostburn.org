@@ -3,7 +3,7 @@
 year: 2019
 dates: "Thursday Feb 14 - Monday Feb 18th"
 early_access: "Early Access: Soon!"
-ticket_text: "Tickets: On Sale Soon!"
+ticket_text: "Tickets: On Sale Now. Tier 2 starts Jan 1st"
 location: "Marvin's Mountaintop"
 location_link: 'resources/MarvinsMountainTop-FrostburnDirections.pdf'
 ticket_prices:
@@ -12,7 +12,7 @@ ticket_prices:
   tier2: "$80"
   tier3: "$100"
   wood_load: "TBD"
-  wood_cord: "TBD"
+  wood_cord: "240"
 ticket_dates:
   early_bird: "October 17th"
   tier1: "October 17th"
