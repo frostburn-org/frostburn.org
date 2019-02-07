@@ -2,7 +2,7 @@
 # Watch out for quotes in things like links
 year: 2019
 dates: "Thursday Feb 14 - Monday Feb 18"
-early_access: "Early Access: <%= link_to 'Form Here!', 'https://goo.gl/forms/otEiTH3aDGPd3MJj2' %>"
+early_access: "Early Access: <a href='https://goo.gl/forms/otEiTH3aDGPd3MJj2'>Form Here!</a>"
 ticket_text: "Tickets: Available at the Gate"
 location: "Marvin's Mountaintop"
 location_link: 'resources/MarvinsMountainTop-FrostburnDirections.pdf'
