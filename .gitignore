@@ -9,6 +9,9 @@
 export
 frostburn-export.xml
 
+# ignore vendor
+/vendor
+
 # Ignore the build directory
 /build
 
