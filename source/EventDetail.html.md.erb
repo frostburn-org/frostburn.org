@@ -1,23 +1,30 @@
 ---
 title: 'Details & Resources'
-date: '2012-10-28'
+date: '2019-2-7'
 tags: []
 ---
 
-Event Details and Resources
+<%= data.event.year %> Event Details and Resources
 ------
 
-Downloadable <%= data.event.year %> Docs (links are not likely to work until
-immediately before the event):
-
+<% if sitemap.find_resource_by_path("/resources/Frostburn#{data.event.year}-WhatWhereWhenGuide.pdf") %>
 <%= link_to "What? Where? When? Guide",
     "/resources/Frostburn#{data.event.year}-WhatWhereWhenGuide.pdf" %>
-&
-<%= link_to "Event Map","/resources/Frostburn#{data.event.year}-EventMap.pdf" %>
+<% else %>
+  <%= data.event.year %> What? Where? When? Guide is not published yet.
+<% end %>
 
 Remember to read the <%= link_to "Frostburn Survival Guide",
                      "resources/MarvinsMountainTop-FrostburnSurvivalGuide.pdf"
                      %> and <%= link_to "FAQs", "/faq.html" %>
+
+<% if sitemap.find_resource_by_path("/resources/Frostburn#{data.event.year}-EventMap.pdf") %>
+  Downloadable <%= link_to "Event Map (PDF)","/resources/Frostburn#{data.event.year}-EventMap.pdf" %>
+  <%= link_to "Event Map (PNG)","/resources/Frostburn#{data.event.year}-EventMap.png" %>
+  <%= image_tag("/resources/Frostburn#{data.event.year}-EventMap.png") %>
+<% else %>
+  <%= data.event.year %> Event Map is not published yet.
+<% end %>
 
 GPS directions are terrible. They may bring you in over the back of the
 mountain, or up a rutted, narrow, pot holed road. Use these
