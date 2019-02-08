@@ -11,7 +11,7 @@ links:
   registration_links_open: true
   #### Registration Links ####
   early_access:
-    open: true
+    open: false
     link: "https://goo.gl/forms/otEiTH3aDGPd3MJj2"
     text: "Request Early Arrival"
     closed: "Early Arrival Requests Closed"
