@@ -59,11 +59,32 @@ configure :development do
 end
 
 # Methods defined in the helpers block are available in templates
-# helpers do
+helpers do
 #   def some_helper
 #     "Helping"
 #   end
-# end
+  def volunteer_link(this)
+      if  eval("#{"data.event.links.#{this}.open"}") == true
+      link_to eval("#{"data.event.links.#{this}.text"}"),
+        eval("#{"data.event.links.#{this}.link"}")
+    else
+        "<b>" +
+        eval("#{"data.event.links.#{this}.closed"}") +
+        "</b>"
+
+    end
+  end
+  def registration_link(this)
+      if  eval("#{"data.event.links.#{this}.open"}") == true
+      link_to eval("#{"data.event.links.#{this}.text"}"),
+        eval("#{"data.event.links.#{this}.link"}")
+    else
+        "<b>" +
+        eval("#{"data.event.links.#{this}.closed"}") +
+        "</b>"
+    end
+  end
+ end
 
 set :css_dir, 'stylesheets'
 

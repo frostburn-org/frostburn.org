@@ -2,10 +2,67 @@
 # Watch out for quotes in things like links
 year: 2019
 dates: "Thursday Feb 14 - Monday Feb 18"
-early_access: "Early Access: <a href='https://goo.gl/forms/otEiTH3aDGPd3MJj2'>Form Here!</a>"
+early_access: "Early Arrival: See Registration Page!"
 ticket_text: "Tickets: Available at the Gate"
 location: "Marvin's Mountaintop"
 location_link: 'resources/MarvinsMountainTop-FrostburnDirections.pdf'
+links:
+  volunteer_links_open: true
+  registration_links_open: true
+  #### Registration Links ####
+  early_access:
+    open: true
+    link: "https://goo.gl/forms/otEiTH3aDGPd3MJj2"
+    text: "Request Early Arrival"
+    closed: "Early Arrival Requests Closed"
+  art_grant:
+    open: false
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSefFc3UTsm3j_UHEG0j6UKMRQvk2yHspaST6IwAfhJUCxt5jw/viewform?usp=sf_link"
+    text: "Apply for an art grant"
+    closed: "Art Grant Applications Closed"
+  temple_grant:
+    open: false
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdCH8HZhPcB7cbfmHh_CXIVBgW-UQG7sQjJqQC-jvc2yAyh6Q/viewform?usp=sf_link"
+    text: "Apply for a temple grant"
+    closed: "Temple Grant Applications Closed"
+  event_registration:
+    open: false
+    link: "https://docs.google.com/forms/d/e/1FAIpQLScfEhJxinIid-g5oSmqKGSNh9rq1q2ryJ4eZdr9QaGaVnTL_Q/viewform?usp=sf_link"
+    text: "Register Your Event"
+    closed: "Event Registration Closed"
+  camp_registration:
+    open: false
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdxLB32c51F_ScVboHDKDxuqke4rXxWiZqUYNYs30aOblsJAQ/viewform?usp=sf_link"
+    text: "Register Your Camp"
+    closed: "Camp Registration Closed"
+  art_registration:
+    open: false
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdxLB32c51F_ScVboHDKDxuqke4rXxWiZqUYNYs30aOblsJAQ/viewform?usp=sf_link"
+    text: "Register Your Art"
+    closed: "Art Registration Closed"
+  #### Volunteer Links ####
+  gate:
+    open: true
+    link: "https://docs.google.com/spreadsheets/d/1UAJct_woi3c5Eh9q4Y7_oFPpZAL4jdqu5__YYNemDbs/edit?usp=sharing"
+    text: "Gate/Greeter Volunteer Sign-up Sheet"
+    closed: "Gate/Greeter Volunteer Sign-up Closed"
+  health_safety:
+    open: true
+    link: "https://docs.google.com/spreadsheets/d/1zQOzZeFKsRaTMSvBFEOS3fc5EvkNAE2RZyEaOVPBygI/edit?usp=sharing"
+    text: "Ranger/Medic Volunteer Sign-up Sheet"
+    closed: "Ranger/Medic Volunteer Sign-up Sheet Closed"
+  conclave:
+    open: true
+    link: "https://goo.gl/forms/afoZnzEBQLNFYKkj2"
+    text: "Fire Conclave Sign-up Form"
+    text: "Fire Conclave Sign-up Form Closed"
+mail:
+  dpw:
+    link: "support@frostburn.org"
+    text: "DPW Volunteers please e-mail support"
+  leads:
+    link: "support@frostburn.org"
+    text: "Please e-mail support"
 ticket_prices:
   early_bird: "$35"
   tier1: "$55"
@@ -18,3 +75,7 @@ ticket_dates:
   tier1: "October 17 - December 31"
   tier2: "January 1 - Feburary 7"
   tier3: "At the Gate"
+volunteer:
+
+  conclave_meeting: "4pm on Saturday Feb 16 at the effigy"
+  perimeter_meeting: "Effigy perimeter meeting will be 5pm Saturday Feb 16 at the Effigy"
