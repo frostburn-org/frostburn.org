@@ -1,5 +1,5 @@
 ---
-layout: guide
+#layout: guide
 ---
 # Frostburn Survival Guide
 
