@@ -71,8 +71,8 @@ ticket_prices:
   wood_load: "TBD"
   wood_cord: "TBD"
 ticket_dates:
-  early_bird: "October 3"
-  tier1: "October 3 - December 31"
+  early_bird: "October 7"
+  tier1: "October 7 - December 31"
   tier2: "January 1 - Feburary 8"
   tier3: "At the Gate"
 volunteer:
