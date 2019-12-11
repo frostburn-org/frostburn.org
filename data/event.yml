@@ -3,59 +3,69 @@
 year: 2020
 dates: "Thursday Feb 13 - Monday Feb 17"
 early_access: "Early Arrival: See Registration Page!"
-ticket_text: "Tickets: On Sale Soon!"
+ticket_text: "Tickets: On Sale Now!"
 location: "Marvin's Mountaintop"
 location_link: 'resources/MarvinsMountainTop-FrostburnDirections.pdf'
 links:
   volunteer_links_open: false
   registration_links_open: false
   #### Registration Links ####
+  # Set open: true,false,"soon"
   early_access:
-    open: false
+    open: soon
     link: "https://goo.gl/forms/otEiTH3aDGPd3MJj2"
     text: "Request Early Arrival"
     closed: "Early Arrival Requests Closed"
+    soon: "Early Arrival Requests Coming Soon"
   art_grant:
     open: false
     link: "https://docs.google.com/forms/d/e/1FAIpQLSefFc3UTsm3j_UHEG0j6UKMRQvk2yHspaST6IwAfhJUCxt5jw/viewform?usp=sf_link"
     text: "Apply for an art grant"
     closed: "Art Grant Applications Closed"
+    soon: "Art Grant Applications Closed"
   temple_grant:
     open: false
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdCH8HZhPcB7cbfmHh_CXIVBgW-UQG7sQjJqQC-jvc2yAyh6Q/viewform?usp=sf_link"
     text: "Apply for a temple grant"
     closed: "Temple Grant Applications Closed"
+    soon: "Temple Grant Applications Comming Soon"
   event_registration:
-    open: false
+    open: soon
     link: "https://docs.google.com/forms/d/e/1FAIpQLScfEhJxinIid-g5oSmqKGSNh9rq1q2ryJ4eZdr9QaGaVnTL_Q/viewform?usp=sf_link"
     text: "Register Your Event"
     closed: "Event Registration Closed"
+    soon: "Event Registration Coming Soon"
   camp_registration:
-    open: false
+    open: soon
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdxLB32c51F_ScVboHDKDxuqke4rXxWiZqUYNYs30aOblsJAQ/viewform?usp=sf_link"
     text: "Register Your Camp"
     closed: "Camp Registration Closed"
+    soon: "Camp Registration Soon"
   art_registration:
-    open: false
+    open: soon
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdxLB32c51F_ScVboHDKDxuqke4rXxWiZqUYNYs30aOblsJAQ/viewform?usp=sf_link"
     text: "Register Your Art"
     closed: "Art Registration Closed"
+    soon: "Art Registration Comming Soon"
   #### Volunteer Links ####
   gate:
-    open: false
+    open: soon
     link: "https://docs.google.com/spreadsheets/d/1UAJct_woi3c5Eh9q4Y7_oFPpZAL4jdqu5__YYNemDbs/edit?usp=sharing"
     text: "Gate/Greeter Volunteer Sign-up Sheet"
     closed: "Gate/Greeter Volunteer Sign-up Closed"
+    soon: "Gate/Greeter Volunteer Sign-up Coming Soon"
   health_safety:
-    open: false
+    open: soon
     link: "https://docs.google.com/spreadsheets/d/1zQOzZeFKsRaTMSvBFEOS3fc5EvkNAE2RZyEaOVPBygI/edit?usp=sharing"
     text: "Ranger/Medic Volunteer Sign-up Sheet"
     closed: "Ranger/Medic Volunteer Sign-up Sheet Closed"
+    soon: "Ranger/Medic Volunteer Sign-up Sheet Comming Soon"
   conclave:
-    open: false
+    open: soon
     link: "https://goo.gl/forms/afoZnzEBQLNFYKkj2"
     text: "Fire Conclave Sign-up Form"
-    text: "Fire Conclave Sign-up Form Closed"
+    closed: "Fire Conclave Sign-up Form Closed"
+    soon: "Fire Conclave Sign-up Form Comming Soon"
 mail:
   dpw:
     link: "support@frostburn.org"
@@ -68,14 +78,13 @@ ticket_prices:
   tier1: "$55"
   tier2: "$80"
   tier3: "$100"
-  wood_load: "TBD"
-  wood_cord: "TBD"
+  wood_load: "$30/$35"
+  wood_cord: "$300"
 ticket_dates:
   early_bird: "October 7"
   tier1: "October 7 - December 31"
   tier2: "January 1 - Feburary 8"
   tier3: "At the Gate"
 volunteer:
-
-  conclave_meeting: "4pm on Saturday Feb 16 at the effigy"
-  perimeter_meeting: "Effigy perimeter meeting will be 5pm Saturday Feb 16 at the Effigy"
+  conclave_meeting: "4pm on Saturday Feb at the effigy"
+  perimeter_meeting: "Effigy perimeter meeting will be 5pm Saturday at the Effigy"
