@@ -25,13 +25,13 @@ links:
     closed: "Individual Early Arrival Requests Closed"
     soon: "Individual Early Arrival Requests Coming Soon"
   art_grant:
-    open: false
+    open: closed
     link: "https://docs.google.com/forms/d/e/1FAIpQLSefFc3UTsm3j_UHEG0j6UKMRQvk2yHspaST6IwAfhJUCxt5jw/viewform?usp=sf_link"
     text: "Apply for an art grant"
     closed: "Art Grant Applications Closed"
     soon: "Art Grant Applications Closed"
   temple_grant:
-    open: false
+    open: closed
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdCH8HZhPcB7cbfmHh_CXIVBgW-UQG7sQjJqQC-jvc2yAyh6Q/viewform?usp=sf_link"
     text: "Apply for a temple grant"
     closed: "Temple Grant Applications Closed"
