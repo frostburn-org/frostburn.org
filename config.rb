@@ -64,14 +64,17 @@ helpers do
 #     "Helping"
 #   end
   def volunteer_link(this)
-      if  eval("#{"data.event.links.#{this}.open"}") == true
+    if  eval("#{"data.event.links.#{this}.open"}") == true
       link_to eval("#{"data.event.links.#{this}.text"}"),
         eval("#{"data.event.links.#{this}.link"}")
+    elsif eval("#{"data.event.links.#{this}.open"}") == "soon"
+        "<b>" +
+        eval("#{"data.event.links.#{this}.soon"}") +
+        "</b>"
     else
         "<b>" +
         eval("#{"data.event.links.#{this}.closed"}") +
         "</b>"
-
     end
   end
   def registration_link(this)

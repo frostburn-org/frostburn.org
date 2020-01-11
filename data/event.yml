@@ -6,6 +6,7 @@ early_access: "Early Arrival: See Registration Page!"
 ticket_text: "Tickets: On Sale Now!"
 location: "Marvin's Mountaintop"
 location_link: 'resources/MarvinsMountainTop-FrostburnDirections.pdf'
+registration_close: "January 31 at Midnight"
 links:
   volunteer_links_open: false
   registration_links_open: false
@@ -30,27 +31,27 @@ links:
     closed: "Temple Grant Applications Closed"
     soon: "Temple Grant Applications Comming Soon"
   event_registration:
-    open: soon
+    open: true
     link: "https://docs.google.com/forms/d/e/1FAIpQLScfEhJxinIid-g5oSmqKGSNh9rq1q2ryJ4eZdr9QaGaVnTL_Q/viewform?usp=sf_link"
     text: "Register Your Event"
     closed: "Event Registration Closed"
     soon: "Event Registration Coming Soon"
   camp_registration:
-    open: soon
+    open: true
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdxLB32c51F_ScVboHDKDxuqke4rXxWiZqUYNYs30aOblsJAQ/viewform?usp=sf_link"
     text: "Register Your Camp"
     closed: "Camp Registration Closed"
     soon: "Camp Registration Soon"
   art_registration:
-    open: soon
+    open: true
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdxLB32c51F_ScVboHDKDxuqke4rXxWiZqUYNYs30aOblsJAQ/viewform?usp=sf_link"
     text: "Register Your Art"
     closed: "Art Registration Closed"
     soon: "Art Registration Comming Soon"
   #### Volunteer Links ####
   gate:
-    open: soon
-    link: "https://docs.google.com/spreadsheets/d/1UAJct_woi3c5Eh9q4Y7_oFPpZAL4jdqu5__YYNemDbs/edit?usp=sharing"
+    open: true
+    link: "https://docs.google.com/spreadsheets/d/1Nvpneg0tSMYkYSeCIAPD6BliJk-WEf4FkSWcDBnShJE/edit#usp=sharing"
     text: "Gate/Greeter Volunteer Sign-up Sheet"
     closed: "Gate/Greeter Volunteer Sign-up Closed"
     soon: "Gate/Greeter Volunteer Sign-up Coming Soon"
