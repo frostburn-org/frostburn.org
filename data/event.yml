@@ -6,6 +6,7 @@ early_access: "Early Arrival: See Registration Page!"
 ticket_text: "Tickets: On Sale Now!"
 location: "Marvin's Mountaintop"
 location_link: 'resources/MarvinsMountainTop-FrostburnDirections.pdf'
+registration_close: "January 31 at Midnight"
 links:
   volunteer_links_open: false
   registration_links_open: false
