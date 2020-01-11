@@ -56,8 +56,8 @@ links:
     closed: "Gate/Greeter Volunteer Sign-up Closed"
     soon: "Gate/Greeter Volunteer Sign-up Coming Soon"
   health_safety:
-    open: soon
-    link: "https://docs.google.com/spreadsheets/d/1zQOzZeFKsRaTMSvBFEOS3fc5EvkNAE2RZyEaOVPBygI/edit?usp=sharing"
+    open: true
+    link: "https://docs.google.com/spreadsheets/d/1KWDokrOxfqXWGanks-T1z6Iobw9oDRJhiECOFg3yHJY/edit#gid=0"
     text: "Ranger/Medic Volunteer Sign-up Sheet"
     closed: "Ranger/Medic Volunteer Sign-up Sheet Closed"
     soon: "Ranger/Medic Volunteer Sign-up Sheet Comming Soon"
