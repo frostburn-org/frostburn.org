@@ -68,8 +68,8 @@ links:
     closed: "Ranger/Medic Volunteer Sign-up Sheet Closed"
     soon: "Ranger/Medic Volunteer Sign-up Sheet Comming Soon"
   conclave:
-    open: soon
-    link: "https://goo.gl/forms/afoZnzEBQLNFYKkj2"
+    open: true
+    link: "https://docs.google.com/forms/d/13Q5YdJga8ZgGMyalp-Zqm_UgWEAGA39brBZ-neYG97s/edit?usp=sharing"
     text: "Fire Conclave Sign-up Form"
     closed: "Fire Conclave Sign-up Form Closed"
     soon: "Fire Conclave Sign-up Form Comming Soon"
