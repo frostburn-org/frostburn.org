@@ -12,12 +12,18 @@ links:
   registration_links_open: false
   #### Registration Links ####
   # Set open: true,false,"soon"
-  early_access:
-    open: soon
-    link: "https://goo.gl/forms/otEiTH3aDGPd3MJj2"
-    text: "Request Early Arrival"
-    closed: "Early Arrival Requests Closed"
-    soon: "Early Arrival Requests Coming Soon"
+  early_access_tco:
+    open: true
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSce5yH5YiQIJQ6XlA-WpPjUYZmEnqqOYZwTEXBDpKx244Z4og/viewform?usp=sf_link"
+    text: "Request Theme Camp Early Arrival (TCO Only)"
+    closed: "Theme Camp Early Arrival Requests Closed"
+    soon: "Theme Camp Early Arrival Requests Coming Soon"
+  early_access_individual:
+    open: true
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSffZV1VYU0rBQMqNQWZeyQ4cOAiKrxCuH0HUuPkhGvltluRWA/viewform?usp=sf_link"
+    text: "Request Individual Early Arrival"
+    closed: "Individual Early Arrival Requests Closed"
+    soon: "Individual Early Arrival Requests Coming Soon"
   art_grant:
     open: closed
     link: "https://docs.google.com/forms/d/e/1FAIpQLSefFc3UTsm3j_UHEG0j6UKMRQvk2yHspaST6IwAfhJUCxt5jw/viewform?usp=sf_link"
