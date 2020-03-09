@@ -5,27 +5,25 @@ tags: []
 ---
 
 <h2>Contact Us</h2>
-Help: <<%= data.contact.support %>>
+The Primary Way to Contact Frostburn is via our Support email:
+<%= mail_to("support@frostburn.org")%>
 
-Qeuestions on placement:  <<%= data.contact.placement %>>
-Questions on art grants:   <<%= data.contact.art %>>
-Questions on volunteering:  <<%= data.contact.volunteer %>>
-Questions on Fire conclave:  <<%= data.contact.support %>>
+You may also reach the Frostburn Board of Directors via email:
+<%= mail_to("bod@frostburn.org")%>
 
+<% data.contact.email.each do |u| %>
+  <%= "Questions about #{u.desc}: "%> <%= mail_to(u.email) %> <br>
+<% end %>
 
 Like email?
 Frostburn Announce List (Low Traffic):
 <%= link_to 'Subscribe', 'http://frostburn.us12.list-manage.com/subscribe?u=b2b2cd75178791bef87ccdfe8&id=398b3065f6' %>
 <%= link_to 'Unsubscribe', 'http://frostburn.us12.list-manage1.com/unsubscribe?u=b2b2cd75178791bef87ccdfe8&id=398b3065f6&e=[UNIQID]&c=1d1daa9bfc' %>
 <br>
-Frostburn Discuss List:
-<a href="mailto:frostburn_discuss+subscribe@googlegroups.com?subject=Send this message to subscribe">Subscribe</a>
-<a href="mailto:frostburn_discuss+unsubscribe@googlegroups.com?subject=Send this message to un-subscribe">Unsubscribe</a>
-<br>
 
-Social Media:
+Social Media: <br>
 <% data.contact.social.each do |u| %>
-  <%= link_to u.text, u.link %>
+  <%= link_to u.text, u.link %> <br>
 <% end %>
 
 

@@ -6,17 +6,24 @@ early_access: "Early Arrival: See Registration Page!"
 ticket_text: "Tickets: On Sale Now!"
 location: "Marvin's Mountaintop"
 location_link: 'resources/MarvinsMountainTop-FrostburnDirections.pdf'
+registration_close: "January 31 at Midnight"
 links:
   volunteer_links_open: false
   registration_links_open: false
   #### Registration Links ####
   # Set open: true,false,"soon"
-  early_access:
-    open: soon
-    link: "https://goo.gl/forms/otEiTH3aDGPd3MJj2"
-    text: "Request Early Arrival"
-    closed: "Early Arrival Requests Closed"
-    soon: "Early Arrival Requests Coming Soon"
+  early_access_tco:
+    open: false
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSce5yH5YiQIJQ6XlA-WpPjUYZmEnqqOYZwTEXBDpKx244Z4og/viewform?usp=sf_link"
+    text: "Request Theme Camp Early Arrival (TCO Only)"
+    closed: "Theme Camp Early Arrival Requests Closed"
+    soon: "Theme Camp Early Arrival Requests Coming Soon"
+  early_access_individual:
+    open: false
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSffZV1VYU0rBQMqNQWZeyQ4cOAiKrxCuH0HUuPkhGvltluRWA/viewform?usp=sf_link"
+    text: "Request Individual Early Arrival"
+    closed: "Individual Early Arrival Requests Closed"
+    soon: "Individual Early Arrival Requests Coming Soon"
   art_grant:
     open: false
     link: "https://docs.google.com/forms/d/e/1FAIpQLSefFc3UTsm3j_UHEG0j6UKMRQvk2yHspaST6IwAfhJUCxt5jw/viewform?usp=sf_link"
@@ -30,46 +37,46 @@ links:
     closed: "Temple Grant Applications Closed"
     soon: "Temple Grant Applications Comming Soon"
   event_registration:
-    open: soon
-    link: "https://docs.google.com/forms/d/e/1FAIpQLScfEhJxinIid-g5oSmqKGSNh9rq1q2ryJ4eZdr9QaGaVnTL_Q/viewform?usp=sf_link"
+    open: false
+    link: "https://forms.gle/BDez4pbmYFdu2ATQA"
     text: "Register Your Event"
     closed: "Event Registration Closed"
     soon: "Event Registration Coming Soon"
   camp_registration:
-    open: soon
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdxLB32c51F_ScVboHDKDxuqke4rXxWiZqUYNYs30aOblsJAQ/viewform?usp=sf_link"
+    open: false
+    link: "https://forms.gle/1YbPnnxZScaU6VB96"
     text: "Register Your Camp"
     closed: "Camp Registration Closed"
     soon: "Camp Registration Soon"
   art_registration:
-    open: soon
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdxLB32c51F_ScVboHDKDxuqke4rXxWiZqUYNYs30aOblsJAQ/viewform?usp=sf_link"
+    open: false
+    link: "https://forms.gle/UPwHViUtr7kQXRZi8"
     text: "Register Your Art"
     closed: "Art Registration Closed"
     soon: "Art Registration Comming Soon"
   #### Volunteer Links ####
   gate:
-    open: soon
-    link: "https://docs.google.com/spreadsheets/d/1UAJct_woi3c5Eh9q4Y7_oFPpZAL4jdqu5__YYNemDbs/edit?usp=sharing"
+    open: false
+    link: "https://docs.google.com/spreadsheets/d/1Nvpneg0tSMYkYSeCIAPD6BliJk-WEf4FkSWcDBnShJE/edit?usp=sharing"
     text: "Gate/Greeter Volunteer Sign-up Sheet"
     closed: "Gate/Greeter Volunteer Sign-up Closed"
     soon: "Gate/Greeter Volunteer Sign-up Coming Soon"
   health_safety:
-    open: soon
-    link: "https://docs.google.com/spreadsheets/d/1zQOzZeFKsRaTMSvBFEOS3fc5EvkNAE2RZyEaOVPBygI/edit?usp=sharing"
+    open: false
+    link: "https://docs.google.com/spreadsheets/d/1KWDokrOxfqXWGanks-T1z6Iobw9oDRJhiECOFg3yHJY/edit#gid=0"
     text: "Ranger/Medic Volunteer Sign-up Sheet"
     closed: "Ranger/Medic Volunteer Sign-up Sheet Closed"
     soon: "Ranger/Medic Volunteer Sign-up Sheet Comming Soon"
   conclave:
-    open: soon
-    link: "https://goo.gl/forms/afoZnzEBQLNFYKkj2"
+    open: false
+    link: "https://docs.google.com/forms/d/13Q5YdJga8ZgGMyalp-Zqm_UgWEAGA39brBZ-neYG97s/edit?usp=sharing"
     text: "Fire Conclave Sign-up Form"
     closed: "Fire Conclave Sign-up Form Closed"
     soon: "Fire Conclave Sign-up Form Comming Soon"
 mail:
   dpw:
-    link: "support@frostburn.org"
-    text: "DPW Volunteers please e-mail support"
+    link: "volunteer@frostburn.org"
+    text: "DPW Volunteers please e-mail volunteers"
   leads:
     link: "support@frostburn.org"
     text: "Please e-mail support"

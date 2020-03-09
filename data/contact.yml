@@ -1,8 +1,32 @@
-support: "support@frostburn.org"
-placement: "support@frostburn.org"
-art: "teppy@egenesis.com"
-volunteer: "support@frostburn.org"
-conclave:  "support@frostburn.org"
+email:
+  - desc: Gate
+    email: "gate@frostburn.org"
+  - desc: Rangering
+    email: "rangers@frostburn.org"
+  - desc: Medic
+    email: "medical@frostburn.org"
+  - desc: DPW
+    email: "volunteer@frostburn.org"
+  - desc: Volunteering
+    email: "volunteer@frostburn.org"
+  - desc: Conclave
+    email: "conclave@frostburn.org"
+  - desc: "Early Access"
+    email: "early_access@frostburn.org"
+  - desc: Placement
+    email: "placement@frostburn.org"
+  - desc: "What Where When/Events"
+    email: "events@frostburn.org"
+  - desc: "Fire Perimeter/Safety"
+    email: "fire@frostburn.org"
+  - desc: Website
+    email: "web@frostburn.org"
+  # Support and BOD are hard coded
+  # - desc: Support
+  #   email: "support@frostburn.org"
+  # - desc: "Board of Directors"
+  #   email: "bod@frostburn.org"
+
 social:
  - link: "http://www.facebook.com/pages/Frostburn/139985721719?"
    text: "Frostburn Facebook Page"
