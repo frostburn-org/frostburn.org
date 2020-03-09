@@ -13,62 +13,62 @@ links:
   #### Registration Links ####
   # Set open: true,false,"soon"
   early_access_tco:
-    open: true
+    open: false
     link: "https://docs.google.com/forms/d/e/1FAIpQLSce5yH5YiQIJQ6XlA-WpPjUYZmEnqqOYZwTEXBDpKx244Z4og/viewform?usp=sf_link"
     text: "Request Theme Camp Early Arrival (TCO Only)"
     closed: "Theme Camp Early Arrival Requests Closed"
     soon: "Theme Camp Early Arrival Requests Coming Soon"
   early_access_individual:
-    open: true
+    open: false
     link: "https://docs.google.com/forms/d/e/1FAIpQLSffZV1VYU0rBQMqNQWZeyQ4cOAiKrxCuH0HUuPkhGvltluRWA/viewform?usp=sf_link"
     text: "Request Individual Early Arrival"
     closed: "Individual Early Arrival Requests Closed"
     soon: "Individual Early Arrival Requests Coming Soon"
   art_grant:
-    open: closed
+    open: false
     link: "https://docs.google.com/forms/d/e/1FAIpQLSefFc3UTsm3j_UHEG0j6UKMRQvk2yHspaST6IwAfhJUCxt5jw/viewform?usp=sf_link"
     text: "Apply for an art grant"
     closed: "Art Grant Applications Closed"
     soon: "Art Grant Applications Closed"
   temple_grant:
-    open: closed
+    open: false
     link: "https://docs.google.com/forms/d/e/1FAIpQLSdCH8HZhPcB7cbfmHh_CXIVBgW-UQG7sQjJqQC-jvc2yAyh6Q/viewform?usp=sf_link"
     text: "Apply for a temple grant"
     closed: "Temple Grant Applications Closed"
     soon: "Temple Grant Applications Comming Soon"
   event_registration:
-    open: true
+    open: false
     link: "https://forms.gle/BDez4pbmYFdu2ATQA"
     text: "Register Your Event"
     closed: "Event Registration Closed"
     soon: "Event Registration Coming Soon"
   camp_registration:
-    open: true
+    open: false
     link: "https://forms.gle/1YbPnnxZScaU6VB96"
     text: "Register Your Camp"
     closed: "Camp Registration Closed"
     soon: "Camp Registration Soon"
   art_registration:
-    open: true
+    open: false
     link: "https://forms.gle/UPwHViUtr7kQXRZi8"
     text: "Register Your Art"
     closed: "Art Registration Closed"
     soon: "Art Registration Comming Soon"
   #### Volunteer Links ####
   gate:
-    open: true
+    open: false
     link: "https://docs.google.com/spreadsheets/d/1Nvpneg0tSMYkYSeCIAPD6BliJk-WEf4FkSWcDBnShJE/edit?usp=sharing"
     text: "Gate/Greeter Volunteer Sign-up Sheet"
     closed: "Gate/Greeter Volunteer Sign-up Closed"
     soon: "Gate/Greeter Volunteer Sign-up Coming Soon"
   health_safety:
-    open: true
+    open: false
     link: "https://docs.google.com/spreadsheets/d/1KWDokrOxfqXWGanks-T1z6Iobw9oDRJhiECOFg3yHJY/edit#gid=0"
     text: "Ranger/Medic Volunteer Sign-up Sheet"
     closed: "Ranger/Medic Volunteer Sign-up Sheet Closed"
     soon: "Ranger/Medic Volunteer Sign-up Sheet Comming Soon"
   conclave:
-    open: true
+    open: false
     link: "https://docs.google.com/forms/d/13Q5YdJga8ZgGMyalp-Zqm_UgWEAGA39brBZ-neYG97s/edit?usp=sharing"
     text: "Fire Conclave Sign-up Form"
     closed: "Fire Conclave Sign-up Form Closed"
