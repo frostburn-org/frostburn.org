@@ -88,13 +88,13 @@ GEM
       activesupport (>= 3.1)
     parallel (1.13.0)
     public_suffix (3.0.3)
-    puma (3.12.2)
+    puma (3.12.4)
     rack (2.0.8)
     rack-contrib (2.1.0)
       rack (~> 2.0)
     rack-livereload (0.3.17)
       rack
-    rake (12.3.2)
+    rake (12.3.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -126,4 +126,4 @@ RUBY VERSION
    ruby 2.4.3p205
 
 BUNDLED WITH
-   1.17.2
+   2.1.4
