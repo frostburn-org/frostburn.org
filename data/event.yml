@@ -2,8 +2,8 @@
 # Watch out for quotes in things like links
 year: 2021
 dates: "Indefinitely Postponed"
-early_access: "Early Arrival: See Registration Page!"
-ticket_text: "Postponed"
+early_access: ""
+ticket_text: ""
 location: "Marvin's Mountaintop"
 location_link: 'resources/MarvinsMountainTop-FrostburnDirections.pdf'
 registration_close: "January 31 at Midnight"
